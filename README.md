@@ -4,12 +4,6 @@
 
 This repository hold all relevant code used for data preprocessing, visualization, and analysis for the ProMiSE Project.
 
-This repository holds all the necessary code to run an Edgeworth Box teaching application developed in R Shiny. 
-
-The interactive application allows students and teachers to illustrate key economic intuitions by visualising the general equilibrium in a 2 consumers x 2 goods endowment economy. Users can selectively display all important ingredients, like indifference curves and budget constraints, and change a wide range of parameter values. The app furthermore allows to illustrate the Pareto set, the contract curve, and the first and second welfare theorems - in an interactive way.
-
-This project is one of three applications developed by Daniel Leal and Frank Pisch at the University of St. Gallen in 2020/21.
-
 ## Table of content
 
 - [Application](#application)

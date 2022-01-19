@@ -17,7 +17,7 @@ This repository hold all relevant code used for data preprocessing, visualizatio
 
 ## Preprocessing
 
-The application is divided into three applications:
+The application is divided into three applications
 
     <p align="center">
       <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide1.PNG" width="850" height="500" />

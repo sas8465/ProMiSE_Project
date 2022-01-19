@@ -19,20 +19,16 @@ This repository hold all relevant code used for data preprocessing, visualizatio
 
 The application is divided into three applications:
 
-- Edgeworth Box:
-    - This portion contains the standard Edgeworth Box representation. Its purpose is to showcase the interaction between two agents with different initial endowments and the effect of changing the relative price of good on their consumption.  
     <p align="center">
-      <img src="https://github.com/sas8465/Edgeworth-Box-Shiny-App/blob/main/images/Edgeworth%20Box.png" width="850" height="500" />
+      <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide1.PNG" width="850" height="500" />
     </p>
 - Offer Curves:
-    - This application demonstrates each agent’s individual offer curve and how they are constructed. An offer curve shows the quantity of one type of product that an agent will offer for each quantity of another type of product that it receives.
+
     <p align="center">
-      <img src="https://github.com/sas8465/Edgeworth-Box-Shiny-App/blob/main/images/Offer%20Curves.png" width="850" height="500" />
+      <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide2.PNG" width="850" height="500" />
     </p>
-- Welfare:
-    - This portion illustrates the First and Second Welfare Theorems using the Edgeworth Box setup.
     <p align="center">
-      <img src="https://github.com/sas8465/Edgeworth-Box-Shiny-App/blob/main/images/Welfare.png" width="850" height="500" />
+      <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide3.PNG" width="850" height="500" />
     </p>
 
 ## Visualization

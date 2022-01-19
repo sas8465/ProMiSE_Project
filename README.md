@@ -22,8 +22,6 @@ The application is divided into three applications:
     <p align="center">
       <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide1.PNG" width="850" height="500" />
     </p>
-- Offer Curves:
-
     <p align="center">
       <img src="https://github.com/sas8465/ProMiSE_Project/blob/main/images/Slide2.PNG" width="850" height="500" />
     </p>
